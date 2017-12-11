@@ -1,0 +1,15 @@
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.exe
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.deps.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.runtimeconfig.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.runtimeconfig.dev.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.pdb
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.csproj.CoreCompileInputs.cache
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.AssemblyInfoInputs.cache
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.AssemblyInfo.cs
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.pdb
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\bin\x64\Debug\netcoreapp2.0\win-x64\settings.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Host\obj\x64\Debug\netcoreapp2.0\win-x64\Asos.Sizing.Spike.Host.csprojResolveAssemblyReference.cache

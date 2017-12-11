@@ -1,0 +1,11 @@
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.csproj.CoreCompileInputs.cache
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.AssemblyInfoInputs.cache
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.AssemblyInfo.cs
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\bin\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.deps.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\bin\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.runtimeconfig.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\bin\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.runtimeconfig.dev.json
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\bin\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\bin\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.pdb
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.csprojResolveAssemblyReference.cache
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.dll
+D:\Handson\Asos.Sizing.Spike\Asos.Sizing.Spike.Event.Publisher\obj\Debug\netcoreapp2.0\Asos.Sizing.Spike.Event.Publisher.pdb

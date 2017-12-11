@@ -1,0 +1,11 @@
+{
+  "ServiceBusConfig": {
+    "SubscriptionListeners": [
+      {
+        "ServiceBusConnectionString": "Endpoint=sb://asos-pim-eun-bus.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=vDfWcAqx/kwUf1I6LsK6dYVQ56/SswsvAM9EpICv3Lo=",
+        "TopicName": "pim.adapter.spike",
+        "SubscriptionName": "sizing.spike"
+      }
+    ]
+  }
+}
